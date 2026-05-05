@@ -81,6 +81,7 @@
 ## 📁 Структура проекта
 
 EnglishCard/
+
 ├── main.py                 # Основной код бота
 
 ├── requirements.txt        # Зависимости
