@@ -1,6 +1,6 @@
 # 🎓 EnglishCard — Telegram-бот для изучения английского языка
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue)](https://core.telegram.org/bots)
 [![SQLite](https://img.shields.io/badge/SQLite-3-blue)](https://sqlite.org)
 [![Status](https://img.shields.io/badge/status-online-brightgreen)](https://t.me/connor_teaches_bot)
