@@ -82,10 +82,15 @@
 
 EnglishCard/
 ├── main.py                 # Основной код бота
+
 ├── requirements.txt        # Зависимости
+
 ├── .gitignore             # Игнорируемые файлы
+
 ├── .env.example           # Пример переменных окружения
+
 ├── learning_english_db.png # Схема базы данных
+
 └── README.md              # Этот файл
 
 ## 🔐 Безопасность
@@ -109,4 +114,4 @@ EnglishCard/
 
 ## 📞 Контакты
 
-По всем вопросам — @stendal16471
+По всем вопросам — [@stendal16471](https://t.me/stendal16471)
